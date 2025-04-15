@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=PC Control
+Comment=Control your PC from Steam Deck
+Exec=python3 pc_control_app.py
+Icon=/path/to/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupWMClass=PCControl
