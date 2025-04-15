@@ -4,7 +4,7 @@ import subprocess
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLabel, QMessageBox
 
 # Flask API configurations
-API_TOKEN = "71a5c1ada9fc24bc97c269b84ee6cc6311aae0ddb11c9dc810a4795c7a9eb6d5"
+API_TOKEN = "token"
 FLASK_SERVER_URL = "http://192.168.2.13"  # Updated to your server's IP address
 
 # Function to check and install required dependencies
